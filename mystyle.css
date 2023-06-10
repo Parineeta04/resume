@@ -1,0 +1,44 @@
+/* This is external style */
+
+p{
+    font-size: 24px;
+    color: rgb(140, 115, 183);
+}
+
+#para1{
+    color: rgb(123, 210, 210);
+    background-color: rgb(101, 114, 150);
+    margin: 15px;
+    padding: 25px;
+    border-width: 1px;
+    border-color: rgb(201, 124, 166);
+    border-style: solid;
+}
+
+#para2{
+    color: rgb(100, 202, 153);
+    background-image: url(IMG_5437.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.font1{
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#para3{
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+
+body{
+    border-width: 1px;
+    border-color: rgb(201, 124, 166);
+    border-style: solid;
+    margin: 30px;
+    padding: 20px;
+}
